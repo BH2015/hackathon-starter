@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a72e520_cb2e89a5",
+        "filename": "services/reminder.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1007536
+      },
+      "writtenOn": "2016-02-23T04:01:36Z",
+      "side": 1,
+      "message": "why you want to do this",
+      "revId": "ecdb0a1c8e7634567abf43328d47ab995c86ce3c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
